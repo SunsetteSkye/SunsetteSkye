@@ -67,6 +67,7 @@ show_dir_listing    : false
 # permalink           : /:categories/:year/:month/:day/:title:output_ext
 # paginate_path       : /page:num
 timezone            : null
+excerpt_separator   : "<!--more-->"
 
 quiet               : false
 verbose             : false
