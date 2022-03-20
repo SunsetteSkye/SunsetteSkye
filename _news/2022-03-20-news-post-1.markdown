@@ -2,4 +2,4 @@
 title: Hello World!
 author: Cynthia
 ---
-It's a little cliche, but hey, a little cliche never hurt anyone.
+It's a little cliche, but hey, a little cliche never hurt anyone. WE ARE FINALLY FREE FROM WIX.
