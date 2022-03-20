@@ -1,0 +1,25 @@
+---
+# NEWS
+---
+<!doctype html>
+<html lang="en">
+	<head>
+		{%- include head.html -%}
+		<title>Sundered Marches - {{ page.title }}</title>
+	</head>
+	<body>
+		{%- include header.html -%}
+		{%- include supportus.html -%}
+		{%- include navigator-top.html colurl="/news.html"-%}
+		<section>
+			<h1>{{ page.title }}</h1>
+			<div>
+				By: {{ page.author }}, on {{ page.date | date: "%-d %B %Y" }}
+			</div><hr><div>
+				{{ page.content | markdownify }}
+			</div>
+		</section>
+		{%- include navigator-bottom.html colurl="/news.html"-%}
+		{%- include footer.html -%}
+	</body>
+</html>
