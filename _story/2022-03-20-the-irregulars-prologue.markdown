@@ -11,123 +11,123 @@ Life was always scarce here in the Meteora Mountains, a shattered plateau that s
 
 Now the sky was stained maroon, illuminated by a scarlet half-moon that was less than sanguine. When that ruddy scar glowered in the sky, when blood ran backwards into broken bodies, when fetid corpses stood again and rotted eyes burned bright with hatred: no one would choose to be out on a night like this.
 
-But soldiers often didnít have a choice.
+But soldiers often didn‚Äôt have a choice.
 
-The light of gunfire erupted across a series of high, narrow mesas. It came from the rifles of dozens of uneasy women and men. They were clad in dark blue wool uniforms and heavy white fur scarves, though the blue looked black in the light of the bloodmoon. Their uniforms bore the white silhouette of a sword turned skyward. These soldiers were the blade of the Duvencht Empire, here to put down rebels ñ at any cost.
+The light of gunfire erupted across a series of high, narrow mesas. It came from the rifles of dozens of uneasy women and men. They were clad in dark blue wool uniforms and heavy white fur scarves, though the blue looked black in the light of the bloodmoon. Their uniforms bore the white silhouette of a sword turned skyward. These soldiers were the blade of the Duvencht Empire, here to put down rebels ‚Äì at any cost.
 
-The undead didnít much care for their mission. The Imperial Army had the benefit of high ground, but no other cover, and so half of them were focused on the skeletal monsters that flew overhead on impossible bone wings or clambered up the rocky cliffs to wreak havoc upon the living. 
+The undead didn‚Äôt much care for their mission. The Imperial Army had the benefit of high ground, but no other cover, and so half of them were focused on the skeletal monsters that flew overhead on impossible bone wings or clambered up the rocky cliffs to wreak havoc upon the living. 
 
-The other half of the force rained suppression fire at the wide, shadowed maw of a craggy cave. The enemy inside constantly responded with muzzle flashes of their own. Glimpses of the rebels themselves ñ soldiers clad in a bright wine-red and gold trim ñ were tricky, but they were trapped in the cave; it was only a matter of time. Theyíd been caught so off-guard several of them were only now finishing their packing, with half-readied packs littering the exterior. Anything that wasnít essential was staying.
+The other half of the force rained suppression fire at the wide, shadowed maw of a craggy cave. The enemy inside constantly responded with muzzle flashes of their own. Glimpses of the rebels themselves ‚Äì soldiers clad in a bright wine-red and gold trim ‚Äì were tricky, but they were trapped in the cave; it was only a matter of time. They‚Äôd been caught so off-guard several of them were only now finishing their packing, with half-readied packs littering the exterior. Anything that wasn‚Äôt essential was staying.
 
 As the empire launched another salvo of bullets, one nicked a hidden crystal cluster in the cave. Rock and gem shards erupted from the earth in a conical spread. Screams rent the air. That was the end of poor Lance-Corporal Elizabeth Clemons.
 
-The one blessing, Knickers thought, was that her body had been so thoroughly pulverized that even the bloodmoon couldnít raise her corpse. They had enough to shoot at without adding a friend to that count.
+The one blessing, Knickers thought, was that her body had been so thoroughly pulverized that even the bloodmoon couldn‚Äôt raise her corpse. They had enough to shoot at without adding a friend to that count.
 
 This was all his fault. He knew it, they knew it, and yet he was the only way they were making it out of this mess; as of half-an-hour ago he was ranking officer of this aerinyes recon unit.
 
-Aerinyes were easy to pick out against the rest of the military. They typically stood two or three hands under two yards and wore particularly meretricious variants of the scarlet and gold: silken cravats, aviatorís goggles, tightly corseted bodysuits, thigh-high boots covered in complex mechanical cables, and large brass backpacks with clockwork frames that connected to those boots. The unusual uniform contained the control apparatuses, body harness, wings, and rockets that were necessary for one-person powered flight. Aerinyes were aerial operations specialists, and the signature troop of the Lanva Revolutionary Aerie.
+Aerinyes were easy to pick out against the rest of the military. They typically stood two or three hands under two yards and wore particularly meretricious variants of the scarlet and gold: silken cravats, aviator‚Äôs goggles, tightly corseted bodysuits, thigh-high boots covered in complex mechanical cables, and large brass backpacks with clockwork frames that connected to those boots. The unusual uniform contained the control apparatuses, body harness, wings, and rockets that were necessary for one-person powered flight. Aerinyes were aerial operations specialists, and the signature troop of the Lanva Revolutionary Aerie.
 
 And here they were, a flying recon unit ambushed and pinned inside of a cave. It was disgraceful, but he only had himself to blame.
 
-Knickers ñ more properly Cadet Nicodemus Rose, Esquire ñ was the ginger lad with buttermilk skin; the one hiding just behind the rock at the mouth of the cave, and ahead of the rest of his unit. He stood out from the other aerinyes on two points: first, as an officer, he wore an open scarlet frock coat over his bodysuit. Second, he had stunning green eyes, and a make-up regimen to match ñ eyeshadow, mascara, lipstick, blush.
+Knickers ‚Äì more properly Cadet Nicodemus Rose, Esquire ‚Äì was the ginger lad with buttermilk skin; the one hiding just behind the rock at the mouth of the cave, and ahead of the rest of his unit. He stood out from the other aerinyes on two points: first, as an officer, he wore an open scarlet frock coat over his bodysuit. Second, he had stunning green eyes, and a make-up regimen to match ‚Äì eyeshadow, mascara, lipstick, blush.
 
-Not that looking pretty was at the top of his priority list right now. They had a good defensive position as far as not immediately dying or dealing with undead, but the problem was the glimmering crystals that speckled the rock all around them. Resonance crystals. They had a habit of blowing up if they got hit. Heíd had the unit clear up most of the big clusters when they set up shop here in the cave, but some were embedded below the surface of the stone. Clemonsí death was the second time the enemy had gotten lucky, and Knickers doubted itíd be the last.
+Not that looking pretty was at the top of his priority list right now. They had a good defensive position as far as not immediately dying or dealing with undead, but the problem was the glimmering crystals that speckled the rock all around them. Resonance crystals. They had a habit of blowing up if they got hit. He‚Äôd had the unit clear up most of the big clusters when they set up shop here in the cave, but some were embedded below the surface of the stone. Clemons‚Äô death was the second time the enemy had gotten lucky, and Knickers doubted it‚Äôd be the last.
 
-ìSir, what are we going to do?!î The voice belonged to a Lance-Corporal Henny Westhouse ñ copper-skinned, acne-ridden, and small even by aerinyes standards, Knickers suspected she had lied about her age to enlist. She was shouting at him from the opposite side of the cave.  ìWhy arenít we surrendering?!î
+‚ÄúSir, what are we going to do?!‚Äù The voice belonged to a Lance-Corporal Henny Westhouse ‚Äì copper-skinned, acne-ridden, and small even by aerinyes standards, Knickers suspected she had lied about her age to enlist. She was shouting at him from the opposite side of the cave.  ‚ÄúWhy aren‚Äôt we surrendering?!‚Äù
 
-Before he answered, he fired several shots with an oversized pistol at the mesas above. Probabilistically speaking, his bullets werenít worth a dip for accuracy from this range, not from a handgun, but he needed a sec to think. Everyone knew the Schreibell Doctrine on paper; aerinyes equipment was too valuable to allow it or its pilots falling intact into enemy hands. But how do you tell someone that young that the only choices are retreat, victory, or death?
+Before he answered, he fired several shots with an oversized pistol at the mesas above. Probabilistically speaking, his bullets weren‚Äôt worth a dip for accuracy from this range, not from a handgun, but he needed a sec to think. Everyone knew the Schreibell Doctrine on paper; aerinyes equipment was too valuable to allow it or its pilots falling intact into enemy hands. But how do you tell someone that young that the only choices are retreat, victory, or death?
 
-If youíre Knickers, you find a way not to talk about it.
+If you‚Äôre Knickers, you find a way not to talk about it.
 
-ìLance-Corporal, just buying time for the plan!î
+‚ÄúLance-Corporal, just buying time for the plan!‚Äù
 
-ìBullshit!î Came an older womanís voice from behind. ìYouíre just stalling for time. Thereís no plan for this shit!î
+‚ÄúBullshit!‚Äù Came an older woman‚Äôs voice from behind. ‚ÄúYou‚Äôre just stalling for time. There‚Äôs no plan for this shit!‚Äù
 
-Sometimes, Knick really hated NCOs. They had a special capacity for calling out the officers on their crap. He decided not to point out the insubordination at the moment, keeping a smile on his face. ìStallingís part of the plan, Corporal Park! Fortinbras, how's the L-T doing?î
+Sometimes, Knick really hated NCOs. They had a special capacity for calling out the officers on their crap. He decided not to point out the insubordination at the moment, keeping a smile on his face. ‚ÄúStalling‚Äôs part of the plan, Corporal Park! Fortinbras, how's the L-T doing?‚Äù
 
 With that last, Knick was speaking to a tall, lanky black man in the rear; the man had a fade-top, a pair of intense brown eyes, and a rabbit on his shoulder.
 
-Senior Specialist Fortinbras Fallows was not an aerinyes; he wore the elaborate scarlet and gold robes of a non-combatant mage. Kneeling on the ground, his hands glowed with the healing warmth of the sun, easing the pain of his charge ñ the ruddy-skinned lady with a tight-cropped haircut and half her body in slings. That was Lieutenant Magdalena Cornette, though there wasnít much left of her frock coat now. The rock shrapnel from one of the explosions had ripped up her body and deprived the unit of their actual leader.
+Senior Specialist Fortinbras Fallows was not an aerinyes; he wore the elaborate scarlet and gold robes of a non-combatant mage. Kneeling on the ground, his hands glowed with the healing warmth of the sun, easing the pain of his charge ‚Äì the ruddy-skinned lady with a tight-cropped haircut and half her body in slings. That was Lieutenant Magdalena Cornette, though there wasn‚Äôt much left of her frock coat now. The rock shrapnel from one of the explosions had ripped up her body and deprived the unit of their actual leader.
 
-When Fortinbras didnít respond, the rabbit on his shoulder headbutted him in the cheek for attention. 
+When Fortinbras didn‚Äôt respond, the rabbit on his shoulder headbutted him in the cheek for attention. 
 
-ìThink sheís out of the worst of it,î he said, taking a breath. Healing always took a lot out of him. ìNot that Iím a chirurgist, though.î
+‚ÄúThink she‚Äôs out of the worst of it,‚Äù he said, taking a breath. Healing always took a lot out of him. ‚ÄúNot that I‚Äôm a chirurgist, though.‚Äù
 
-ìBeggars canít be choosers!î Knickers replied. A bullet embedded itself into the rock beside his head and he dropped flat. ìDang it!î
+‚ÄúBeggars can‚Äôt be choosers!‚Äù Knickers replied. A bullet embedded itself into the rock beside his head and he dropped flat. ‚ÄúDang it!‚Äù
 
-ìBe careful, Cadet!î Fortinbras shouted, concern in his eyes.
+‚ÄúBe careful, Cadet!‚Äù Fortinbras shouted, concern in his eyes.
 
-ìTrying, Specialist! So is the L-T safe enough to move yet?î Knick asked. 
+‚ÄúTrying, Specialist! So is the L-T safe enough to move yet?‚Äù Knick asked. 
 
-ìIíd say as good as it gets. She might even wake up soon if weíre lucky.î 
+‚ÄúI‚Äôd say as good as it gets. She might even wake up soon if we‚Äôre lucky.‚Äù 
 
 Knickers allowed himself a little smile. That was great news; the Corporal was right. The longer they stalled, the worse this position got, but while Knickers did have the bare bones of a plan, it was going to leave a bunch of mostly green fliers with a support officer at the top of their chain of command in a combat situation. If the Lieutenant got back up soon, that problem was mitigated. 
 
-ìGreat. I need a flare empowered!î Knick shouted between gunshots. ìAs much juice as you can spare! First Wing, just a few more salvos and we got this!î
+‚ÄúGreat. I need a flare empowered!‚Äù Knick shouted between gunshots. ‚ÄúAs much juice as you can spare! First Wing, just a few more salvos and we got this!‚Äù
 
-ìA flare? Please donít tell me youíre playing hard-to-get.î Fortinbras frowned and nodded at the rabbit. It leapt off his shoulder and scampered several yards forward, as the corporals around exchanged fire with the enemy outside.
+‚ÄúA flare? Please don‚Äôt tell me you‚Äôre playing hard-to-get.‚Äù Fortinbras frowned and nodded at the rabbit. It leapt off his shoulder and scampered several yards forward, as the corporals around exchanged fire with the enemy outside.
 
-ìHard-to-get?î the young Lance-Corporal asked.
+‚ÄúHard-to-get?‚Äù the young Lance-Corporal asked.
 
-ìKeep your eyes open and youíll see in a second, Westhouse.î Knickers waggled his brows mischievously.
+‚ÄúKeep your eyes open and you‚Äôll see in a second, Westhouse.‚Äù Knickers waggled his brows mischievously.
 
-Fortinbras shook his head. ìKnick! Tell me youíve got a bigger plan than that!î
+Fortinbras shook his head. ‚ÄúKnick! Tell me you‚Äôve got a bigger plan than that!‚Äù
 
-ìIím not always a size queen, Forti!î Knickers paused as the rabbit came up to him. He fell back behind the boulder and reached into a pouch on his bandolier. ìYou understand me, right, Paddywhack?î
+‚ÄúI‚Äôm not always a size queen, Forti!‚Äù Knickers paused as the rabbit came up to him. He fell back behind the boulder and reached into a pouch on his bandolier. ‚ÄúYou understand me, right, Paddywhack?‚Äù
 
-The rabbit bobbed his head up and down and honkedπ gleefully.
+The rabbit bobbed his head up and down and honked¬π gleefully.
 
-ìWhy does my familiar like you better than me?î Fortinbras sighed.
+‚ÄúWhy does my familiar like you better than me?‚Äù Fortinbras sighed.
 
-ìTry feeding him more fruit and less lettuce!î The cadet presented a single silver flare canister to the rabbit. It was significantly longer and thicker than a bullet, with a bulbous head. In the rear, Fortinbrasí eyes glowed like sunlight; simultaneously, a matching aura enveloped both the rabbitís eyes and the ammo canister.
+‚ÄúTry feeding him more fruit and less lettuce!‚Äù The cadet presented a single silver flare canister to the rabbit. It was significantly longer and thicker than a bullet, with a bulbous head. In the rear, Fortinbras‚Äô eyes glowed like sunlight; simultaneously, a matching aura enveloped both the rabbit‚Äôs eyes and the ammo canister.
 
-ìPerfect.î Knick patted Paddywhackís head before slapping the glowing canister into a pistol and waving at the others for attention. 
+‚ÄúPerfect.‚Äù Knick patted Paddywhack‚Äôs head before slapping the glowing canister into a pistol and waving at the others for attention. 
 
-ìFirst Wing! Iím gonna flash íem and play hard-to-get! As a reminder, that means Iím gonna draw all their fire, which means you donít do anything to get their attention! I want everyone moving out of this cave on the double. Itís the only way weíre getting out of this, no one try any heroics. Everyone is valuable ñ Schreibell Doctrine stands. Corporal Park has chain-of-command until youíre at a safe spot. Am I clear, folks?î
+‚ÄúFirst Wing! I‚Äôm gonna flash ‚Äôem and play hard-to-get! As a reminder, that means I‚Äôm gonna draw all their fire, which means you don‚Äôt do anything to get their attention! I want everyone moving out of this cave on the double. It‚Äôs the only way we‚Äôre getting out of this, no one try any heroics. Everyone is valuable ‚Äì Schreibell Doctrine stands. Corporal Park has chain-of-command until you‚Äôre at a safe spot. Am I clear, folks?‚Äù
 
-ìSir?î There was a stunned silence among the troops. What he was doing was tantamount to suicide. 
+‚ÄúSir?‚Äù There was a stunned silence among the troops. What he was doing was tantamount to suicide. 
 
-ìYou heard Cadet Rose,î Fortinbras said, a calm strength in his voice. From his position on the ground, the mage offered Knickers a salute; Paddywhack immediately aped the gesture. The dozen-or-so of the aerinyes still upright quickly followed suit. Some were sloppy, some were shocked, but whatever ill feelings there had been dissipated.
+‚ÄúYou heard Cadet Rose,‚Äù Fortinbras said, a calm strength in his voice. From his position on the ground, the mage offered Knickers a salute; Paddywhack immediately aped the gesture. The dozen-or-so of the aerinyes still upright quickly followed suit. Some were sloppy, some were shocked, but whatever ill feelings there had been dissipated.
 
-Come back to us, Knick, Fortinbras mouthed. The tenderness in his eyes was of a kind usually reserved for oneís lover. Dating within the same unit was technically against regulations, but war was made of strange bedfellows.
+Come back to us, Knick, Fortinbras mouthed. The tenderness in his eyes was of a kind usually reserved for one‚Äôs lover. Dating within the same unit was technically against regulations, but war was made of strange bedfellows.
 
-Knickers saluted right back. He didnít offer a promise or denial, just an I love you, followed by a wink and blowing a kiss. It was easier than crying.
+Knickers saluted right back. He didn‚Äôt offer a promise or denial, just an I love you, followed by a wink and blowing a kiss. It was easier than crying.
 
 Then he pulled his goggles down over his eyes, rolled out into the open, and fired. A huge bolt of light launched out of the barrel, then exploded with eye-searing solar radiance. A flare was bright; a magically-enhanced flare in the damned dark was a whole damn other thing. Agonized cries erupted from the enemy position. 
 
 After that, he reached back and yanked a ripcord on the side of the mechanical pack he wore; all at once, the brass clockwork frame and gears exploded into action. They unfolded and expanded into wings adorned with white and scarlet feathers of metal, powered by three large rocket nozzles. Fire erupted from his back, scorching the stone beneath, and he leapt into the air.
 
-Aerinyes were aerial operation specialists, with rocket-powered wingpacks and complicated control mechanisms. Knick, in particular, specialized in air superiority. The secret to aerial combat was a head for math ñ you had to constantly track the movements and patterns of a lot of things in three dimensions. Fortunately, Knickers might as well have had a flamboyant clock for a brain. Itíd served him well as a tailor, as an artillery student, and now as one of the warís early aces.
+Aerinyes were aerial operation specialists, with rocket-powered wingpacks and complicated control mechanisms. Knick, in particular, specialized in air superiority. The secret to aerial combat was a head for math ‚Äì you had to constantly track the movements and patterns of a lot of things in three dimensions. Fortunately, Knickers might as well have had a flamboyant clock for a brain. It‚Äôd served him well as a tailor, as an artillery student, and now as one of the war‚Äôs early aces.
 
-He knew exactly how much he needed to twiddle with the levers and paddles in his boots to get the thrust necessary for a good olí air raid and had worked out a roughly optimized flight pattern to take advantage of their temporary blindness. The same scattercannon he used to fire the flare would work well here; as he dashed overhead the blinded enemy, he rained white-hot embers that burned through their clothing and seared their flesh to cinders. 
+He knew exactly how much he needed to twiddle with the levers and paddles in his boots to get the thrust necessary for a good ol‚Äô air raid and had worked out a roughly optimized flight pattern to take advantage of their temporary blindness. The same scattercannon he used to fire the flare would work well here; as he dashed overhead the blinded enemy, he rained white-hot embers that burned through their clothing and seared their flesh to cinders. 
 
-As effective as the flare tactic was, of course, not everyone had been looking in the right direction at the right time. The ones that werenít blinded were mostly preoccupied with the undead, but a few stray bullets chased after him, dinging his wings with sparks. He moved into a zig-zag flight pattern and ignored it. Trying to triangulate the shootersí position would just waste time. He wasnít planning to live through this; a blaze of glory would suffice.
+As effective as the flare tactic was, of course, not everyone had been looking in the right direction at the right time. The ones that weren‚Äôt blinded were mostly preoccupied with the undead, but a few stray bullets chased after him, dinging his wings with sparks. He moved into a zig-zag flight pattern and ignored it. Trying to triangulate the shooters‚Äô position would just waste time. He wasn‚Äôt planning to live through this; a blaze of glory would suffice.
 
 Knick tossed a glance back towards the line of people heading out the cavern. The Lieutenant was on a stretcher and Forti was watching her. Good. He just had to keep this up for another minute, make his two guns feel like twenty.
 
-He refocused his attention on the enemy. The nearest group was now being assaulted by a reanimated bear corpse ñ the bleached bones and rotted flesh-covered claws were tearing their bodies apart and creating fresh undead. Time to move onto the next. 
+He refocused his attention on the enemy. The nearest group was now being assaulted by a reanimated bear corpse ‚Äì the bleached bones and rotted flesh-covered claws were tearing their bodies apart and creating fresh undead. Time to move onto the next. 
 
-He dove 77∞ hard down, like a fiery falcon upon a lone foe; then he fired a double execution shot, sprang back into the air, and whirled away as a bullet clipped his shoulder. It was just a graze, but it stung like hell.
-Knick was starting to wonder how long heíd last when a black lightning bolt shot down from the moon and smote a mesa nearby with such intensity that Knick felt himself thrown backwards through the air.
+He dove 77¬∞ hard down, like a fiery falcon upon a lone foe; then he fired a double execution shot, sprang back into the air, and whirled away as a bullet clipped his shoulder. It was just a graze, but it stung like hell.
+Knick was starting to wonder how long he‚Äôd last when a black lightning bolt shot down from the moon and smote a mesa nearby with such intensity that Knick felt himself thrown backwards through the air.
 
-Time seemed to slow as he processed this new event. Pain brought a unique clarity with it, slowing the world around him. Black lightning? He second-guessed his own description. That didnít even make sense. By definition, something cannot emit darkness. Yet he had no other words to describe it; jagged fissures of shadow cut through the flare light and led back to their presumed origin. 
+Time seemed to slow as he processed this new event. Pain brought a unique clarity with it, slowing the world around him. Black lightning? He second-guessed his own description. That didn‚Äôt even make sense. By definition, something cannot emit darkness. Yet he had no other words to describe it; jagged fissures of shadow cut through the flare light and led back to their presumed origin. 
 
-Upon a plateau stood a woman of light brown skin in an elaborate black gown; she had dark magenta hair, somewhat like a witch, but that was about where the comparisons ended. Witches didnít wear three-layer ruffle gowns that were so frilly Knickers was jealous. They didnít keep their hair in complicated styles like a braided bun. They also didnít carry giant scythes with wicked curved blades ñ what was the arclength on that, pi over six? ñ that seemed to permanently glisten with blood. And they certainly didnít have great big wings of bone and leather sticking out of their back, or eyes coming out of their cheeks, foreheads, jaws.
+Upon a plateau stood a woman of light brown skin in an elaborate black gown; she had dark magenta hair, somewhat like a witch, but that was about where the comparisons ended. Witches didn‚Äôt wear three-layer ruffle gowns that were so frilly Knickers was jealous. They didn‚Äôt keep their hair in complicated styles like a braided bun. They also didn‚Äôt carry giant scythes with wicked curved blades ‚Äì what was the arclength on that, pi over six? ‚Äì that seemed to permanently glisten with blood. And they certainly didn‚Äôt have great big wings of bone and leather sticking out of their back, or eyes coming out of their cheeks, foreheads, jaws.
 
-She raised a hand towards the battlefield. All at once, both Imperial soldiers and the risen undead lowered arms and stood still with a synchronicity that wasnít normal or natural. They all justÖturned off.
+She raised a hand towards the battlefield. All at once, both Imperial soldiers and the risen undead lowered arms and stood still with a synchronicity that wasn‚Äôt normal or natural. They all just‚Ä¶turned off.
 
-Knick wasnít sure what she was, but he knew she needed to go. He willed his body to snap through the pain, fiddled with his toe switches and blasted straight for her, maximum burn. Right as he came in optimal pistol range, she disappeared in a burst of black lightning. Teleport. Heíd seen hexenritters use that before, though never so quick. He swerved up before he could crash, only to get struck down by an unerring bolt of darkness; it cascaded over the wingpack, seeming to devour both light and flame and returned only pain in kind. He was dimly aware of a symbol etched in the air below him, and strange words that cut through the air. They echoed with the sound of countless chittering insects, of broken bones and weeping widows.
+Knick wasn‚Äôt sure what she was, but he knew she needed to go. He willed his body to snap through the pain, fiddled with his toe switches and blasted straight for her, maximum burn. Right as he came in optimal pistol range, she disappeared in a burst of black lightning. Teleport. He‚Äôd seen hexenritters use that before, though never so quick. He swerved up before he could crash, only to get struck down by an unerring bolt of darkness; it cascaded over the wingpack, seeming to devour both light and flame and returned only pain in kind. He was dimly aware of a symbol etched in the air below him, and strange words that cut through the air. They echoed with the sound of countless chittering insects, of broken bones and weeping widows.
 
-ì**SANGUINE ART: DOOM DESIRE.**î
+‚Äú**SANGUINE ART: DOOM DESIRE.**‚Äù
 
 Knickers felt his vision go blurry. Agonizing pain. Paralyzing. Frozen in mid-air. It was as if the blood in his very veins had taken on a will of its own, gripping him in chains that started inside but were leashed without.
 
-And then ñ horrifyingly ñ the strange woman spoke.
+And then ‚Äì horrifyingly ‚Äì the strange woman spoke.
 
-ìYOUR FILTHY LITTLE FRIENDS ARE RUNNING AWAY. WE CANíT HAVE THAT HAPPEN.î
+‚ÄúYOUR FILTHY LITTLE FRIENDS ARE RUNNING AWAY. WE CAN‚ÄôT HAVE THAT HAPPEN.‚Äù
 
 His arms began to move on their own.
 
 ---
-
-π Rabbits honk when they are happy.
+ 
+¬π Rabbits honk when they are happy.
