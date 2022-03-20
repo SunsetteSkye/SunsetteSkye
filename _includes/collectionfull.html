@@ -1,0 +1,15 @@
+{%- if include.reverse -%}
+  {%- assign colrev = include.col | reverse -%}
+{%- else -%}
+  {%- assign colrev = include.col -%}
+{%- endif -%}
+{%- for item in colrev -%}
+  <section>
+    <h1>{{ item.title }}</h1>
+    <div>
+      By: {{item.author}}, on {{item.date | date: "%-d %B %Y"}}
+    </div><hr><div>
+      {{colrev[0].excerpt | markdownify}}<a href="{{colrev[0].url}}"><h3>Read more...</h3></a>
+    </div>
+  </section>
+{%- endfor -%}
