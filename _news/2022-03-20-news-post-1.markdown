@@ -1,0 +1,5 @@
+---
+title: Hello World!
+author: Cynthia
+---
+It's a little cliche, but hey, a little cliche never hurt anyone.
