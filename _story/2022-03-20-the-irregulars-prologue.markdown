@@ -4,6 +4,7 @@ author: Cynthia
 preview: /assets/prologue.jpg
 previewalt: Front cover of The Irregulars! by Cynthia Skye
 ---
+![Image](/assets/prologue.jpg "A windswept canyon at nighttime. Crystals grow from rock, and the undead claw from the ground and even fly on blighted winds.") 
 
 No one who had the choice would be out on a night like this.
 
@@ -127,6 +128,8 @@ And then – horrifyingly – the strange woman spoke.
 “YOUR FILTHY LITTLE FRIENDS ARE RUNNING AWAY. WE CAN’T HAVE THAT HAPPEN.”
 
 His arms began to move on their own.
+
+![Image](/assets/marchesbatch2.jpg "A silhouette of the dark witch.") 
 
 ---
  
