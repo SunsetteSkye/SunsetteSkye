@@ -9,7 +9,10 @@
     <div>
       By: {{item.author}}, on {{item.date | date: "%-d %B %Y"}}
     </div><hr><div>
-      {{colrev[0].excerpt | markdownify}}<a href="{{colrev[0].url}}"><h3>Read more...</h3></a>
+      {%- if item.preview -%}
+			  <img src="{{item.preview}}" alt="{{item.previewalt}}" class="previewimage">
+		  {%- endif -%}
+      {{item.excerpt | markdownify}}<a href="{{item.url}}"><h3>Read more...</h3></a>
     </div>
   </section>
 {%- endfor -%}
