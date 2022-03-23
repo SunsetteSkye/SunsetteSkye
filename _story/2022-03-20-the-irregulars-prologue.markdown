@@ -3,15 +3,7 @@ title: The Irregulars! Prologue
 author: Cynthia
 preview: /assets/prologue.jpg
 previewalt: Front cover of The Irregulars! by Cynthia Skye
-excerpt: |
-	No one who had the choice would be out on a night like this.
-	
-	Life was always scarce here in the Meteora Mountains, a shattered plateau that stood more than a mile above sea level, towering over both the land outside and the giant crater they encircled. Even at the best of times, its mesas and crags had more crystalline outgrowths breaking up the landscape than brush or even tumbleweeds, but now?
-	Now the sky was stained maroon, illuminated by a scarlet half-moon that was less than sanguine. When that ruddy scar glowered in the sky, when blood ran backwards into broken bodies, when fetid corpses stood again and rotted eyes burned bright with hatred: no one would choose to be out on a night like this.
-	
-	But soldiers often didn’t have a choice.
-	
-	The light of gunfire erupted across a series of high, narrow mesas. It came from the rifles of dozens of uneasy women and men. They were clad in dark blue wool uniforms and heavy white fur scarves, though the blue looked black in the light of the bloodmoon. Their uniforms bore the white silhouette of a sword turned skyward. These soldiers were the blade of the Duvencht Empire, here to put down rebels – at any cost.
+excerpt: "No one who had the choice would be out on a night like this.\n\nLife was always scarce here in the Meteora Mountains, a shattered plateau that stood more than a mile above sea level, towering over both the land outside and the giant crater they encircled. Even at the best of times, its mesas and crags had more crystalline outgrowths breaking up the landscape than brush or even tumbleweeds, but now?\n\nNow the sky was stained maroon, illuminated by a scarlet half-moon that was less than sanguine. When that ruddy scar glowered in the sky, when blood ran backwards into broken bodies, when fetid corpses stood again and rotted eyes burned bright with hatred: no one would choose to be out on a night like this.\n\nBut soldiers often didn’t have a choice.\n\nThe light of gunfire erupted across a series of high, narrow mesas. It came from the rifles of dozens of uneasy women and men. They were clad in dark blue wool uniforms and heavy white fur scarves, though the blue looked black in the light of the bloodmoon. Their uniforms bore the white silhouette of a sword turned skyward. These soldiers were the blade of the Duvencht Empire, here to put down rebels – at any cost."
 ---
 ![Image](/assets/prologue.jpg "A windswept canyon at nighttime. Crystals grow from rock, and the undead claw from the ground and even fly on blighted winds.") 
 
