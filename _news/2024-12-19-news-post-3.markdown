@@ -1,0 +1,28 @@
+---
+title: Dungeons and Dragons
+author: Cynthia
+preview: /assets/5ECover.jpg 
+previewalt: Front cover of The Sundered Marches Campaign Setting
+---
+If you've been at my Patreon or in my Discord, you know I've been busy for years working on adapting Sundered Marches to a tabletop ruleset. After some false starts and trials with four other systems, we've more or less landed at 5E and been working on rules for the last year. You should take a [look](http://sunderedmarches.com/5E/).
+In case you're out of the loop, this book is completely free and currently consists of 180,000 words over 240 pages with light illustrated accompaniments. Within its pages you will find...
+
+<!--more-->
+**Accessible Introductions:** I have done my best to curb my tendencies to throw walls of text at people, and the book opens up with easy-to-read summaries of the main nations in the setting as well as common realities of life in the marches. And while it's still a work in progress, the formatting and spelling are all pretty good.
+**Deeply Explored Cultures:** All 22 Marches are explored in detail, representing a variety of myths, societies, and unique cultures. This gets mechanical grounding with the addition of the Immersive Language variant rules: an optional system that focuses on the complexities of foreign languages and speaking to people through mutually-intelligible but separate tongues. There are five different major religions (or four religions with one denominational split) are explored in depth in a society where undeath is a constant danger.
+**The Afterlife:** Get your first exposure to the shifting theography of the Ministry of Souls: a celestial bureaucracy that is doing their best to keep the world spinning eons after an apocalypse nearly wiped out all life on the planet.
+**Playable Species and Bodies:** In addition to humans, SM5e brings to spotlight the often-animalistic Wastelander, Beastcursed shapeshifters, the half-marine Merfolk, and the mysterious Crystelves. While SM5e features fewer playable non-humans than many other campaign setting, it offers new, optional systems which replace races, enhance backgrounds, and offer more physical customization of your characters' bodies.
+**Disability Support:** SM5e comes with a variety of ways to represent physical disabilities in playable characters as well as offering guidance in using those disabilities and accommodations to thoughtfully play and support those characters.
+**Stunts and Quirks:** Two mutually exclusive systems -- one designed to be easy to use, and the other crunchy for more depth. The new Quirks subsystem allows you to represent a character as more than an array of one-dimensional ability scores, using fail-forward design to show hidden depths to even low ability scores. Stunts, on the other hand, are a subsystem inspired by martial arts and skill focused supplements for older systems, combat stunts allow players to dynamically showcase their talents with a variety of proficiencies about once or twice a fight. With 37 different playbooks to choose from, your characters will feel more distinct than ever.
+**New Class Options:** Meet the brand new Aerinyes class: a winged, rocket-powered combatant uniquely suited to a steampunk setting. There is also mechanical and lore support for Artificer, Barbarian, Bard, Cleric, Druid, Fighter, Monk, Mystic, Paladin, Ranger, Rogue, Sorcerer, Warlock, and Wizard.
+**Expanded Movement:** SM5e gives mechanics and guidance meant to encourage acrobatic, athletic, mounted, and flying characters in a way that provides optional depth but little math.
+**New Feats:** Because of course.
+**Crafting Rules:** Because crafting... rules.
+**Narrative Encounters:** A new optional subsystem that brings a unique amount of depth to challenges which take longer than 6 seconds to resolve. Narrative Encounters include anything from a heist to a battlefield to a political negotiation under pressure. There's special focus on:
+- Mass Battle rules which can handle fights with dozens of enemy combatants swiftly.
+- Rules for setpiece encounters atop and between ships, fortresses, and much more.
+- Improved conversation rules that allow many people to mechanically participate in a conversation that has more depth than "roll Persuasion".
+- Unreliable Narrator: Reports of your defeat may have been greatly exaggerated. When a character goes down in a fight, they can use the new Unreliable Narrator optional system to continue participating in the battle and engage in a Rashomon-style argument with the afterlife about what really happened.
+**Firearms Rules:** I know, I know, everyone has firearms rules. But I like mine better, and I think you will, too. As a steampunk setting, SM5e takes the approach that guns have become the default method of combat and balances firearms appropriately to give you an exciting field of options...
+
+There's still so much more I want to write, but it's a start, and I think it's a pretty good one. I invite you to take a look. So hang on to your knickers, because it's still gonna be a wild ride.
